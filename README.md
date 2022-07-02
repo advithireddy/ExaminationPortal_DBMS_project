@@ -1,5 +1,3 @@
-# ExaminationPortal_DBMS_project
-
 This is a web application helps users(students) to take examinations. These exams are posted on this website by the administrator. Students who
 wish to attempt exams will be able to take the tests on this application they can view marks for their respective attempted exams.
 On-line Exam System is very useful for Educational Institute to prepare an exam, safe the time that will take to check the paper and prepare mark sheets. It helps the Institute to testing of students and develop their skills.
